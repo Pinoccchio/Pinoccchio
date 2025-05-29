@@ -90,13 +90,13 @@ I'm a passionate developer who transforms complex problems into elegant solution
 
 ### 📝 **A'ezzy Grammar Correction**
 *Intelligent Writing Assistant Platform*
-- **Tech**: Next.js, Vite, Gemini AI, Responsive Design
+- **Tech**: Next.js, Typescript, Gemini AI, Responsive Design
 - **Features**: Real-time grammar correction, writing enhancement
 - **Impact**: Improving writing quality for users worldwide
 
 ### 🏛️ **E-Reserve System for Local Government**
 *Comprehensive Venue Management Platform*
-- **Tech**: Next.js, MySQL, XAMPP, PHP Backend
+- **Tech**: Next.js, Typescript, Supabase
 - **Features**: Venue booking, administrative dashboard, role-based access
 - **Impact**: Streamlining government facility management for Libmanan LGU
 
