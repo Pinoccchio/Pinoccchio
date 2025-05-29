@@ -11,8 +11,11 @@
 I'm a passionate developer who transforms complex problems into elegant solutions! Since 2022, I've been crafting innovative mobile and web applications that bridge the gap between cutting-edge technology and real-world needs.
 
 - 🔮 **10+ Cross-Platform Applications** built across Android, Web, and Windows
-- 🤖 **AI Integration Specialist** - Bringing intelligence to applications with Gemini API, TensorFlow, and MediaPipe
-- 💻 **Full-Stack Expertise** - From Flutter mobile apps to Next.js web solutions
+- 🤖 **AI Integration Specialist** - Bringing intelligence to applications with **Gemini AI**, TensorFlow, and MediaPipe
+- 💻 **Full-Stack Expertise** - From Flutter mobile apps to Next.js/Vite web solutions
+- 🗄️ **Database Proficiency** - MySQL, Firebase, Supabase for robust data management
+- 📊 **Data Science Tools** - Jupyter notebooks for machine learning and data analysis
+- 🛠️ **Development Environment** - XAMPP, Android Studio, VS Code for efficient workflows
 - 🎯 **Problem Solver** - Converting business requirements into technical masterpieces
 - 🌱 **Continuous Learner** - Always mastering new technologies and frameworks
 
@@ -25,17 +28,37 @@ I'm a passionate developer who transforms complex problems into elegant solution
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### **Backend & Databases**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+### **Development Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -50,27 +73,33 @@ I'm a passionate developer who transforms complex problems into elegant solution
 
 ### 🌱 **Scan My Soil**
 *AI-Powered Soil Analysis Application*
-- **Tech**: Flutter, Gemini API, Image Recognition
+- **Tech**: Flutter, Gemini AI, Image Recognition, TensorFlow
 - **Features**: Real-time soil composition analysis, agricultural recommendations
 - **Impact**: Helping farmers make data-driven decisions
 
 ### 🗣️ **EnviroSpeak** 
 *Accessibility-Focused Voice Assistant*
-- **Tech**: Flutter, Gemini API, Voice Processing
+- **Tech**: Flutter, Gemini AI, Voice Processing, MediaPipe
 - **Features**: Voice-to-text, environment description, accessibility-first design
 - **Impact**: Empowering users with visual impairments
 
 ### 🤝 **TalkToHand**
 *Sign Language Translation App*
-- **Tech**: Flutter, MediaPipe, Machine Learning
+- **Tech**: Flutter, MediaPipe, TensorFlow, Machine Learning
 - **Features**: Real-time hand gesture recognition, sign-to-text conversion
 - **Impact**: Bridging communication gaps for hearing-impaired users
 
 ### 📝 **A'ezzy Grammar Correction**
 *Intelligent Writing Assistant Platform*
-- **Tech**: Next.js, AI Technologies, Responsive Design
+- **Tech**: Next.js, Vite, Gemini AI, Responsive Design
 - **Features**: Real-time grammar correction, writing enhancement
 - **Impact**: Improving writing quality for users worldwide
+
+### 🏛️ **E-Reserve System for Local Government**
+*Comprehensive Venue Management Platform*
+- **Tech**: Next.js, MySQL, XAMPP, PHP Backend
+- **Features**: Venue booking, administrative dashboard, role-based access
+- **Impact**: Streamlining government facility management for Libmanan LGU
 
 ---
 
