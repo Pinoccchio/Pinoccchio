@@ -69,7 +69,6 @@ I'm a passionate developer who transforms complex problems into elegant solution
 - **Tech**: Flutter, Provider, Material 3
 - **Features**: Real-time collision resolution animation, dual algorithms (Linear Probing & Double Hashing)
 - **Impact**: Educational tool for computer science students
-- [🔗 View Repository](https://github.com/Pinoccchio/hash_table_simulator)
 
 ### 🌱 **Scan My Soil**
 *AI-Powered Soil Analysis Application*
